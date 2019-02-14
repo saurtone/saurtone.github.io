@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: eb59260a6d0cd81bb516                            #生成的clientID
+  clientSecret: 44ffc1829da1541f69c216e34c3f996b40b5f7ad    #生成的clientSecret
+  repo: saurtone.github.io    #仓库名称
+  owner: saurtone    #github用户名
+  admin: saurtone
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 26c6f426b73bac06592609698fce33a1
 
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
