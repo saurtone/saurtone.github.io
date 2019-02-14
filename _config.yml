@@ -99,14 +99,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "EMIC医疗云平台官网",
+        href: "http://www.emic.ink"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "广西高校创业明星",
+        href: "http://www.gxu.edu.cn/Item/19960.aspx"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "计算机与电子信息学院专访",
+        href: "http://scei.gxu.edu.cn/info/1017/1278.htm"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
